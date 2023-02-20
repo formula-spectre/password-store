@@ -1,3 +1,10 @@
+this repo attempts to posix-fy and/or correct the orignal pass script
+branch posix is pure posix
+branch bash is the script ran under shellcheck
+
+
+Original README:
+
 ======================
 Simple Password Store
 by Jason Donenfeld
